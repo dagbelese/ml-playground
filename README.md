@@ -11,13 +11,21 @@ Welcome to **ML-Playground** repository, a machine learning portfolio where I im
 
 ## 📂 Repository Structure
 ml-playground/
+
 │── classification/                # Datasets and Scripts for classification problems
+
 │── regression/                    # Datasets and Scripts for regression problems
+
 │── implementations_from_scratch/  # Custom ML implementations
+
 │   ├── logistic_regression_from_scratch.py
+
 │   ├── linear_regression_from_scratch.py
+
 │── datasets/                       # Datasets (ignored)
+
 │── requirements.txt                # Dependencies
+
 │── README.md                       # Project Documentation
 
 
