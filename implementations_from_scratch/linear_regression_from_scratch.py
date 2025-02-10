@@ -8,7 +8,7 @@ class LinearRegression():
     def __init__(self, learning_rate = 0.01, iterations = 1000):
         """
         Initialize Linear Regression model.
-        
+    
         Args:
             learning_rate: Step size for gradient descent updates.
             iterations: Number of iterations for gradient descent.
