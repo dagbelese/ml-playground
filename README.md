@@ -10,23 +10,16 @@ Welcome to **ML-Playground** repository, a machine learning portfolio where I im
 
 
 ## 📂 Repository Structure
-ml-playground/
 
-│── classification/                # Datasets and Scripts for classification problems
-
-│── regression/                    # Datasets and Scripts for regression problems
-
-│── implementations_from_scratch/  # Custom ML implementations
-
-│   ├── logistic_regression_from_scratch.py
-
-│   ├── linear_regression_from_scratch.py
-
-│── datasets/                       # Datasets (ignored)
-
-│── requirements.txt                # Dependencies
-
-│── README.md                       # Project Documentation
+**ml-playground/**  
+│── **classification/** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Datasets and Scripts for classification problems  
+│── **regression/** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Datasets and Scripts for regression problems  
+│── **implementations_from_scratch/** &nbsp;&nbsp;&nbsp;# Custom ML implementations  
+│   ├── `logistic_regression_from_scratch.py`  
+│   ├── `linear_regression_from_scratch.py`  
+│── **datasets/** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Datasets (ignored)  
+│── `requirements.txt` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Dependencies  
+│── `README.md` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Project Documentation  
 
 
 ## 🏗️ Implemented Machine Learning Algorithms
