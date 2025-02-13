@@ -17,6 +17,7 @@ Welcome to **ML-Playground** repository, a machine learning portfolio where I im
   - **implementations_from_scratch/** - Custom ML implementations
     - `logistic_regression_from_scratch.py`
     - `linear_regression_from_scratch.py`
+    - `decision_tree_classifier_from_scratch.py`
   - **datasets/** - Datasets (ignored in `.gitignore`)
   - `requirements.txt` - Dependencies
   - `README.md` - Project Documentation 
